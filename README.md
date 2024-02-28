@@ -1,0 +1,2 @@
+# TODO-App-with-local-storage-FreeCodeCamp-JS-Certification
+Learned how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
