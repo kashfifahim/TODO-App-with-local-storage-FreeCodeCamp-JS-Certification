@@ -1,6 +1,3 @@
-import 'https://tomashubelbauer.github.io/github-pages-local-storage/index.js';
-
-
 const taskForm = document.getElementById("task-form");
 const confirmCloseDialog = document.getElementById("confirm-close-dialog");
 const openTaskFormBtn = document.getElementById("open-task-form-btn");
